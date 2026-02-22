@@ -1,4 +1,4 @@
-# AppRadarXDiagnosticoInteligenteChurnD-90                                                                                                                                # Radar X – Diagnóstico Inteligente de Churn (D-90)
+# Radar X – Diagnóstico Inteligente de Churn (D-90)
 
 Aplicação avançada de análise de churn que utiliza **IA Generativa (Multiagentes)**, **LangGraph** e **Machine Learning** para identificar a causa raiz do cancelamento em jornadas de 90 dias antes do evento (D-90).
 
